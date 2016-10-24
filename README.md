@@ -1,4 +1,4 @@
-# yo-less-base
+##Steps to install and run the Yeoman based app
 
 
 ###Check and Install the default packages###
