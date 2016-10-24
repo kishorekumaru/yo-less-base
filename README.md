@@ -7,7 +7,10 @@ Check and Install the default packages
   https://nodejs.org/en/download/ 
   
   This will install Node and NPM in your machine
-  to verify its installed run the following command $ node -v $ npm -v
+  to verify its installed run the following command 
+  `$ node -v`
+  
+  `$ npm -v`
 
 2. Install grunt globally
   $ npm install -g grunt-cli
