@@ -1,7 +1,7 @@
 # yo-less-base
 
 
-#Check and Install the default packages# 
+###Check and Install the default packages###
 
 1. NodeJS and NPM 
   https://nodejs.org/en/download/ 
@@ -25,11 +25,11 @@
   `$ npm install -g yo`
   
   
-#Clone the repository into a new folder#
+###Clone the repository into a new folder###
 
   `$ git clone https://github.com/kishorekumaru/yo-less-base.git`
 
-#Get into the folder and run the following commands#
+###Get into the folder and run the following commands###
 
   `$ cd yo-less-base`
   
@@ -37,10 +37,10 @@
   
   `$ bower install --save`
   
-#Run the application#
+###Run the application###
   
   `$ grunt serve`
   
-##Build the application##
+###Build the application###
   
   `$ grunt build`
