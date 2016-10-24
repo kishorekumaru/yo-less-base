@@ -1,7 +1,7 @@
 # yo-less-base
 
 
-Check and Install the default packages 
+#Check and Install the default packages# 
 
 1. NodeJS and NPM 
   https://nodejs.org/en/download/ 
@@ -13,28 +13,34 @@ Check and Install the default packages
   `$ npm -v`
 
 2. Install grunt globally
-  $ npm install -g grunt-cli
+
+  `$ npm install -g grunt-cli`
   
 3. Install bower globally
-  $ npm install -g bower
+
+  `$ npm install -g bower`
   
 4. Install yomean globally
-  $ npm install -g yo
-  
-  
-Clone the repository into a new folder
-  $ git clone https://github.com/kishorekumaru/yo-less-base.git
 
-Get into the folder and run the following commands
-  $ cd yo-less-base
+  `$ npm install -g yo`
   
-  $ npm install --save
-  $ bower install --save
   
-  Run the application
+#Clone the repository into a new folder#
+
+  `$ git clone https://github.com/kishorekumaru/yo-less-base.git`
+
+#Get into the folder and run the following commands#
+
+  `$ cd yo-less-base`
   
-  $ grunt serve
+  `$ npm install --save`
   
-  Build the application
+  `$ bower install --save`
   
-  $ grunt build
+#Run the application#
+  
+  `$ grunt serve`
+  
+##Build the application##
+  
+  `$ grunt build`
