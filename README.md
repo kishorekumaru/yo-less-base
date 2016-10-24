@@ -1,4 +1,4 @@
-##Steps to install and run the Yeoman based app
+##Steps to install and run Yeoman based app
 
 
 ###Check and Install the default packages###
